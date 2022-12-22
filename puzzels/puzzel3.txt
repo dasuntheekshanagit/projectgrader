@@ -3,6 +3,6 @@
 *#**
 ****
 
-fly
-Glue
+FLY
+GLUE
 

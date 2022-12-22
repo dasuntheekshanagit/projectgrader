@@ -3,6 +3,6 @@
 ****
 *###
 
-fire
-cat
+FIRE
+CAT
 
