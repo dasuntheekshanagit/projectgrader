@@ -11,7 +11,7 @@ def filesize():
     
 def main():
     FILE = filesize()
-    for i in range(10):
+    for i in range(13):
         puzzle  = open("puzzels/"+"puzzel"+ str(i+1)+".txt",'r')
         answer = open("answer/"+"answer"+ str(i+1)+".txt",'r')
         
